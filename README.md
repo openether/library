@@ -1,5 +1,7 @@
-# Library
-A place to aggregate blockchain related educational resources such as journal articles
+# OpenEther Library
+The OpenEther library is a community resource to help aggregate relevant educational resources to the Ethereum classic community. Educational resources include but are not limited to: academic research, research articles, example code, scripts and first hand news accounts and long form journalisms., 
+
+*Contribute relevant educational resources by forking the repository and issuing a pull request.*
 
 ## Blockchain Security
 
